@@ -41,6 +41,7 @@ I build physics-aware models that learn from simulations and adapt to real-world
       <sub>02 &nbsp; / &nbsp; LEARNED SIMULATION</sub>
       <h3><a href="https://github.com/Data-Driven-Computational-Geotechnics/TRACE">TRACE ↗</a></h3>
       <p>Contact-memory graph networks for learned simulation of granular dynamics.</p>
+      <p><a href="https://zhouchaunge.github.io/#pub-trace">Watch the locomotion demo ↗</a></p>
       <sub>Graph networks · Computational mechanics</sub>
     </td>
   </tr>
